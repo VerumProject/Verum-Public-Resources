@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "name": "Official EU West Node",
+      "url": "verumcoin.nl",
+      "port": 14001,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    },
+    {
+      "name": "Official Second EU West Node",
+      "url": "verumcoin.nl",
+      "port": 14101,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    }
+  ]
+}
