@@ -1,0 +1,10 @@
+{
+  "pools": [
+    {
+      "name" : "Official Verum Pool",
+      "url" : "https://pool.verumcoin.nl",
+      "api" : "https://pool.verumcoin.nl/api",
+      "type" : "cryptonote-nodejs-pool"
+    },
+  ]
+}
